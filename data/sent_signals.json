@@ -1,0 +1,10 @@
+{
+    "BTCIDR": {
+        "signal": "Bullish MACD Cross",
+        "time": "2025-05-12T14:30:00"
+    },
+    "ETHIDR": {
+        "signal": "Volume Spike",
+        "time": "2025-05-12T14:40:00"
+    }
+}
