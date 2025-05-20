@@ -18,5 +18,5 @@ Developer: OTOH
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/one-trade-dashboard.git
+   git clone https://github.com/otoh47/Read_One_Trade_V.02.git
    cd one-trade-dashboard
