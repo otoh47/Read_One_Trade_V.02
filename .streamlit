@@ -1,8 +1,0 @@
-exchange = "Indodax"
-api_key = "Your_Api_Key"
-api_secret = "Your_Secret_Key"
-telegram_token = "Your_Telegram_Token"
-telegram_chat_id = "Chat_ID"
-
-[coinmarketcap]
-api_key = "cmc_Api_Key"
