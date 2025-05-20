@@ -1,0 +1,13 @@
+streamlit==1.44.1
+pandas
+plotly
+requests
+Pillow
+pyautogui
+opencv-python-headless
+numpy
+ta
+schedule
+pyautogui
+streamlit-autorefresh
+
